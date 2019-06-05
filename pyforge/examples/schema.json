@@ -1,0 +1,5 @@
+[
+  {"name": "title", "source": "listing_title"},
+  {"name": "quantity", "kind": "integer", "minimum": 1},
+  {"name": "active", "kind": "boolean", "default": "yes"}
+]
