@@ -1,2 +1,3 @@
 {"expected": {"value": "1"}, "id": "pyforge-001", "row": {"quantity": " +0000001 "}, "schema": [{"kind": "integer", "maximum": 16, "minimum": 1, "name": "value", "source": "quantity"}]}
 {"expected": {"value": "23"}, "id": "pyforge-002", "row": {"received": " +0000023 "}, "schema": [{"kind": "integer", "maximum": 23, "minimum": 8, "name": "value", "source": "received"}]}
+{"error": "outside bounds", "id": "pyforge-003", "row": {"listed": " +0000014 "}, "schema": [{"kind": "integer", "maximum": 30, "minimum": 15, "name": "value", "source": "listed"}]}
