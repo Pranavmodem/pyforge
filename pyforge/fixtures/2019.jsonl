@@ -3,3 +3,4 @@
 {"error": "outside bounds", "id": "pyforge-003", "row": {"listed": " +0000014 "}, "schema": [{"kind": "integer", "maximum": 30, "minimum": 15, "name": "value", "source": "listed"}]}
 {"error": "outside bounds", "id": "pyforge-004", "row": {"reserved": " +0000038 "}, "schema": [{"kind": "integer", "maximum": 37, "minimum": 22, "name": "value", "source": "reserved"}]}
 {"expected": {"value": "29.250"}, "id": "pyforge-005", "row": {"quantity": "29.250"}, "schema": [{"kind": "decimal", "name": "value", "source": "quantity"}]}
+{"expected": {"title": "listing 11", "weight": "11.000"}, "id": "pyforge-extension-001", "row": {"mass": " 11.000 "}, "schema": [{"default": "listing 11", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 11, "minimum": 0, "name": "weight", "source": "mass"}]}
