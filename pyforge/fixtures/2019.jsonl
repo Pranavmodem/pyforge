@@ -19,3 +19,4 @@
 {"error": "outside bounds", "id": "pyforge-extension-002", "row": {"mass": "12.001"}, "schema": [{"default": "listing 12", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 12, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"error": "outside bounds", "id": "pyforge-extension-003", "row": {"mass": "-0.001"}, "schema": [{"default": "listing 13", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 13, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"expected": {"value": "café 120"}, "id": "pyforge-018", "row": {}, "schema": [{"default": "café 120", "name": "value", "required": false, "source": "received"}]}
+{"error": "finite number", "id": "pyforge-extension-004", "row": {"mass": "Infinity"}, "schema": [{"default": "listing 14", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 14, "minimum": 0, "name": "weight", "source": "mass"}]}
