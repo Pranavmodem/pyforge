@@ -31,3 +31,4 @@
 {"expected": {"priority": "183", "value": "false"}, "id": "pyforge-027", "row": {"listed": " 0 "}, "schema": [{"default": "true", "kind": "boolean", "name": "value", "source": "listed"}, {"default": "183", "kind": "integer", "name": "priority"}]}
 {"expected": {"title": "café", "weight": "0.00"}, "id": "pyforge-extension-005", "row": {"mass": "0E-2", "product": " café "}, "schema": [{"default": "listing 15", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 15, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"expected": {"value": "café 190"}, "id": "pyforge-028", "row": {}, "schema": [{"default": "café 190", "name": "value", "required": false, "source": "reserved"}]}
+{"error": "invalid integer", "id": "pyforge-029", "row": {}, "schema": [{"default": "invalid-197", "kind": "integer", "name": "value", "source": "quantity"}]}
