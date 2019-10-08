@@ -33,3 +33,4 @@
 {"expected": {"value": "café 190"}, "id": "pyforge-028", "row": {}, "schema": [{"default": "café 190", "name": "value", "required": false, "source": "reserved"}]}
 {"error": "invalid integer", "id": "pyforge-029", "row": {}, "schema": [{"default": "invalid-197", "kind": "integer", "name": "value", "source": "quantity"}]}
 {"error": "missing required field", "id": "pyforge-030", "row": {}, "schema": [{"name": "value", "source": "received_29"}]}
+{"expected": {"value": "211"}, "id": "pyforge-031", "row": {"listed": " +0000211 "}, "schema": [{"kind": "integer", "maximum": 226, "minimum": 211, "name": "value", "source": "listed"}]}
