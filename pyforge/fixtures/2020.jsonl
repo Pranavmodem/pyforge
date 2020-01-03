@@ -1,0 +1,1 @@
+{"expected": {"priority": "316", "value": "true"}, "id": "pyforge-046", "row": {"received": " TRUE "}, "schema": [{"default": "false", "kind": "boolean", "name": "value", "source": "received"}, {"default": "316", "kind": "integer", "name": "priority"}]}
