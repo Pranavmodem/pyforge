@@ -1,1 +1,2 @@
 {"expected": {"priority": "316", "value": "true"}, "id": "pyforge-046", "row": {"received": " TRUE "}, "schema": [{"default": "false", "kind": "boolean", "name": "value", "source": "received"}, {"default": "316", "kind": "integer", "name": "priority"}]}
+{"expected": {"priority": "323", "value": "false"}, "id": "pyforge-047", "row": {"listed": " false "}, "schema": [{"default": "true", "kind": "boolean", "name": "value", "source": "listed"}, {"default": "323", "kind": "integer", "name": "priority"}]}
