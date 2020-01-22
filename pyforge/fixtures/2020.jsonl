@@ -5,3 +5,4 @@
 {"error": "missing required field", "id": "pyforge-050", "row": {}, "schema": [{"name": "value", "source": "received_49"}]}
 {"expected": {"value": "351"}, "id": "pyforge-051", "row": {"listed": " +0000351 "}, "schema": [{"kind": "integer", "maximum": 366, "minimum": 351, "name": "value", "source": "listed"}]}
 {"expected": {"value": "373"}, "id": "pyforge-052", "row": {"reserved": " +0000373 "}, "schema": [{"kind": "integer", "maximum": 373, "minimum": 358, "name": "value", "source": "reserved"}]}
+{"error": "outside bounds", "id": "pyforge-053", "row": {"quantity": " +0000364 "}, "schema": [{"kind": "integer", "maximum": 380, "minimum": 365, "name": "value", "source": "quantity"}]}
