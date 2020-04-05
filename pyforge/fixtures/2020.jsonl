@@ -43,3 +43,4 @@
 {"error": "invalid integer", "id": "pyforge-079", "row": {}, "schema": [{"default": "invalid-547", "kind": "integer", "name": "value", "source": "listed"}]}
 {"error": "missing required field", "id": "pyforge-080", "row": {}, "schema": [{"name": "value", "source": "reserved_79"}]}
 {"expected": {"value": "561"}, "id": "pyforge-081", "row": {"quantity": " +0000561 "}, "schema": [{"kind": "integer", "maximum": 576, "minimum": 561, "name": "value", "source": "quantity"}]}
+{"expected": {"value": "583"}, "id": "pyforge-082", "row": {"received": " +0000583 "}, "schema": [{"kind": "integer", "maximum": 583, "minimum": 568, "name": "value", "source": "received"}]}
