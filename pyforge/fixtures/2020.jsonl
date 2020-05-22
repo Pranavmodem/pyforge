@@ -79,3 +79,4 @@
 {"expected": {"title": "listing 56", "weight": "56.000"}, "id": "pyforge-extension-046", "row": {"mass": " 56.000 "}, "schema": [{"default": "listing 56", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 56, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"error": "missing required field", "id": "pyforge-100", "row": {}, "schema": [{"name": "value", "source": "reserved_99"}]}
 {"expected": {"value": "701"}, "id": "pyforge-101", "row": {"quantity": " +0000701 "}, "schema": [{"kind": "integer", "maximum": 716, "minimum": 701, "name": "value", "source": "quantity"}]}
+{"error": "outside bounds", "id": "pyforge-extension-047", "row": {"mass": "57.001"}, "schema": [{"default": "listing 57", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 57, "minimum": 0, "name": "weight", "source": "mass"}]}
