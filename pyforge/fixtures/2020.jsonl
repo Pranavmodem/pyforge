@@ -117,3 +117,4 @@
 {"error": "missing required field", "id": "pyforge-130", "row": {}, "schema": [{"name": "value", "source": "received_129"}]}
 {"expected": {"value": "911"}, "id": "pyforge-131", "row": {"listed": " +0000911 "}, "schema": [{"kind": "integer", "maximum": 926, "minimum": 911, "name": "value", "source": "listed"}]}
 {"expected": {"value": "933"}, "id": "pyforge-132", "row": {"reserved": " +0000933 "}, "schema": [{"kind": "integer", "maximum": 933, "minimum": 918, "name": "value", "source": "reserved"}]}
+{"error": "outside bounds", "id": "pyforge-133", "row": {"quantity": " +0000924 "}, "schema": [{"kind": "integer", "maximum": 940, "minimum": 925, "name": "value", "source": "quantity"}]}
