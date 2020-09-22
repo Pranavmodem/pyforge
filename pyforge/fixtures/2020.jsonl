@@ -130,3 +130,4 @@
 {"error": "finite number", "id": "pyforge-extension-059", "row": {"mass": "Infinity"}, "schema": [{"default": "listing 69", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 69, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"expected": {"value": "café 960"}, "id": "pyforge-138", "row": {}, "schema": [{"default": "café 960", "name": "value", "required": false, "source": "received"}]}
 {"error": "invalid integer", "id": "pyforge-139", "row": {}, "schema": [{"default": "invalid-967", "kind": "integer", "name": "value", "source": "listed"}]}
+{"error": "missing required field", "id": "pyforge-140", "row": {}, "schema": [{"name": "value", "source": "reserved_139"}]}
