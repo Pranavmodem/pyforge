@@ -142,3 +142,4 @@
 {"error": "invalid integer", "id": "pyforge-149", "row": {}, "schema": [{"default": "invalid-1037", "kind": "integer", "name": "value", "source": "quantity"}]}
 {"error": "missing required field", "id": "pyforge-150", "row": {}, "schema": [{"name": "value", "source": "received_149"}]}
 {"expected": {"value": "1051"}, "id": "pyforge-151", "row": {"listed": " +0001051 "}, "schema": [{"kind": "integer", "maximum": 1066, "minimum": 1051, "name": "value", "source": "listed"}]}
+{"expected": {"title": "café", "weight": "0.00"}, "id": "pyforge-extension-060", "row": {"mass": "0E-2", "product": " café "}, "schema": [{"default": "listing 70", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 70, "minimum": 0, "name": "weight", "source": "mass"}]}
