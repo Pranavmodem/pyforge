@@ -150,3 +150,4 @@
 {"error": "outside bounds", "id": "pyforge-154", "row": {"received": " +0001088 "}, "schema": [{"kind": "integer", "maximum": 1087, "minimum": 1072, "name": "value", "source": "received"}]}
 {"expected": {"value": "1079.250"}, "id": "pyforge-155", "row": {"listed": "1079.250"}, "schema": [{"kind": "decimal", "name": "value", "source": "listed"}]}
 {"error": "outside bounds", "id": "pyforge-extension-063", "row": {"mass": "-0.001"}, "schema": [{"default": "listing 73", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 73, "minimum": 0, "name": "weight", "source": "mass"}]}
+{"expected": {"priority": "1086", "value": "true"}, "id": "pyforge-156", "row": {"reserved": " yes "}, "schema": [{"default": "true", "kind": "boolean", "name": "value", "source": "reserved"}, {"default": "1086", "kind": "integer", "name": "priority"}]}
