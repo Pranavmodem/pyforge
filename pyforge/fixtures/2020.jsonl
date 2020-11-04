@@ -161,3 +161,4 @@
 {"error": "outside bounds", "id": "pyforge-extension-068", "row": {"mass": "-0.001"}, "schema": [{"default": "listing 78", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 78, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"error": "missing required field", "id": "pyforge-160", "row": {}, "schema": [{"name": "value", "source": "reserved_159"}]}
 {"expected": {"value": "1121"}, "id": "pyforge-161", "row": {"quantity": " +0001121 "}, "schema": [{"kind": "integer", "maximum": 1136, "minimum": 1121, "name": "value", "source": "quantity"}]}
+{"error": "finite number", "id": "pyforge-extension-069", "row": {"mass": "Infinity"}, "schema": [{"default": "listing 79", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 79, "minimum": 0, "name": "weight", "source": "mass"}]}
