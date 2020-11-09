@@ -165,3 +165,4 @@
 {"expected": {"value": "1143"}, "id": "pyforge-162", "row": {"received": " +0001143 "}, "schema": [{"kind": "integer", "maximum": 1143, "minimum": 1128, "name": "value", "source": "received"}]}
 {"error": "outside bounds", "id": "pyforge-163", "row": {"listed": " +0001134 "}, "schema": [{"kind": "integer", "maximum": 1150, "minimum": 1135, "name": "value", "source": "listed"}]}
 {"error": "outside bounds", "id": "pyforge-164", "row": {"reserved": " +0001158 "}, "schema": [{"kind": "integer", "maximum": 1157, "minimum": 1142, "name": "value", "source": "reserved"}]}
+{"expected": {"title": "café", "weight": "0.00"}, "id": "pyforge-extension-070", "row": {"mass": "0E-2", "product": " café "}, "schema": [{"default": "listing 80", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 80, "minimum": 0, "name": "weight", "source": "mass"}]}
