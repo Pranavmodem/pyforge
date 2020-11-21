@@ -185,3 +185,4 @@
 {"error": "missing required field", "id": "pyforge-170", "row": {}, "schema": [{"name": "value", "source": "received_169"}]}
 {"error": "outside bounds", "id": "pyforge-extension-082", "row": {"mass": "92.001"}, "schema": [{"default": "listing 92", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 92, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"error": "outside bounds", "id": "pyforge-extension-083", "row": {"mass": "-0.001"}, "schema": [{"default": "listing 93", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 93, "minimum": 0, "name": "weight", "source": "mass"}]}
+{"error": "finite number", "id": "pyforge-extension-084", "row": {"mass": "Infinity"}, "schema": [{"default": "listing 94", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 94, "minimum": 0, "name": "weight", "source": "mass"}]}
