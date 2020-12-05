@@ -190,3 +190,4 @@
 {"expected": {"value": "1213"}, "id": "pyforge-172", "row": {"reserved": " +0001213 "}, "schema": [{"kind": "integer", "maximum": 1213, "minimum": 1198, "name": "value", "source": "reserved"}]}
 {"error": "outside bounds", "id": "pyforge-173", "row": {"quantity": " +0001204 "}, "schema": [{"kind": "integer", "maximum": 1220, "minimum": 1205, "name": "value", "source": "quantity"}]}
 {"error": "outside bounds", "id": "pyforge-174", "row": {"received": " +0001228 "}, "schema": [{"kind": "integer", "maximum": 1227, "minimum": 1212, "name": "value", "source": "received"}]}
+{"expected": {"value": "1219.250"}, "id": "pyforge-175", "row": {"listed": "1219.250"}, "schema": [{"kind": "decimal", "name": "value", "source": "listed"}]}
