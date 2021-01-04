@@ -1,0 +1,1 @@
+{"expected": {"value": "1283"}, "id": "pyforge-182", "row": {"received": " +0001283 "}, "schema": [{"kind": "integer", "maximum": 1283, "minimum": 1268, "name": "value", "source": "received"}]}
