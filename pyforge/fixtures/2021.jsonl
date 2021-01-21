@@ -2,3 +2,4 @@
 {"error": "outside bounds", "id": "pyforge-183", "row": {"listed": " +0001274 "}, "schema": [{"kind": "integer", "maximum": 1290, "minimum": 1275, "name": "value", "source": "listed"}]}
 {"error": "finite number", "id": "pyforge-extension-089", "row": {"mass": "Infinity"}, "schema": [{"default": "listing 99", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 99, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"error": "outside bounds", "id": "pyforge-184", "row": {"reserved": " +0001298 "}, "schema": [{"kind": "integer", "maximum": 1297, "minimum": 1282, "name": "value", "source": "reserved"}]}
+{"expected": {"value": "1289.250"}, "id": "pyforge-185", "row": {"quantity": "1289.250"}, "schema": [{"kind": "decimal", "name": "value", "source": "quantity"}]}
