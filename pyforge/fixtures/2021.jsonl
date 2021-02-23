@@ -6,3 +6,4 @@
 {"expected": {"priority": "1296", "value": "true"}, "id": "pyforge-186", "row": {"received": " yes "}, "schema": [{"default": "true", "kind": "boolean", "name": "value", "source": "received"}, {"default": "1296", "kind": "integer", "name": "priority"}]}
 {"expected": {"priority": "1303", "value": "false"}, "id": "pyforge-187", "row": {"listed": " NO "}, "schema": [{"default": "false", "kind": "boolean", "name": "value", "source": "listed"}, {"default": "1303", "kind": "integer", "name": "priority"}]}
 {"expected": {"title": "café", "weight": "0.00"}, "id": "pyforge-extension-090", "row": {"mass": "0E-2", "product": " café "}, "schema": [{"default": "listing 100", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 100, "minimum": 0, "name": "weight", "source": "mass"}]}
+{"expected": {"value": "café 1310"}, "id": "pyforge-188", "row": {}, "schema": [{"default": "café 1310", "name": "value", "required": false, "source": "reserved"}]}
