@@ -13,3 +13,4 @@
 {"error": "outside bounds", "id": "pyforge-extension-093", "row": {"mass": "-0.001"}, "schema": [{"default": "listing 103", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 103, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"error": "finite number", "id": "pyforge-extension-094", "row": {"mass": "Infinity"}, "schema": [{"default": "listing 104", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 104, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"error": "missing required field", "id": "pyforge-190", "row": {}, "schema": [{"name": "value", "source": "received_189"}]}
+{"expected": {"title": "café", "weight": "0.00"}, "id": "pyforge-extension-095", "row": {"mass": "0E-2", "product": " café "}, "schema": [{"default": "listing 105", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 105, "minimum": 0, "name": "weight", "source": "mass"}]}
