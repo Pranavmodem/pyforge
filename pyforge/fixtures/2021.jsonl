@@ -56,3 +56,4 @@
 {"expected": {"priority": "1513", "value": "false"}, "id": "pyforge-217", "row": {"quantity": " NO "}, "schema": [{"default": "false", "kind": "boolean", "name": "value", "source": "quantity"}, {"default": "1513", "kind": "integer", "name": "priority"}]}
 {"expected": {"value": "café 1520"}, "id": "pyforge-218", "row": {}, "schema": [{"default": "café 1520", "name": "value", "required": false, "source": "received"}]}
 {"error": "invalid integer", "id": "pyforge-219", "row": {}, "schema": [{"default": "invalid-1527", "kind": "integer", "name": "value", "source": "listed"}]}
+{"error": "missing required field", "id": "pyforge-220", "row": {}, "schema": [{"name": "value", "source": "reserved_219"}]}
