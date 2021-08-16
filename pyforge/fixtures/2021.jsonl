@@ -62,3 +62,4 @@
 {"error": "outside bounds", "id": "pyforge-223", "row": {"listed": " +0001554 "}, "schema": [{"kind": "integer", "maximum": 1570, "minimum": 1555, "name": "value", "source": "listed"}]}
 {"error": "outside bounds", "id": "pyforge-224", "row": {"reserved": " +0001578 "}, "schema": [{"kind": "integer", "maximum": 1577, "minimum": 1562, "name": "value", "source": "reserved"}]}
 {"expected": {"value": "1569.250"}, "id": "pyforge-225", "row": {"quantity": "1569.250"}, "schema": [{"kind": "decimal", "name": "value", "source": "quantity"}]}
+{"error": "finite number", "id": "pyforge-extension-109", "row": {"mass": "Infinity"}, "schema": [{"default": "listing 119", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 119, "minimum": 0, "name": "weight", "source": "mass"}]}
