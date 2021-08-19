@@ -64,3 +64,4 @@
 {"expected": {"value": "1569.250"}, "id": "pyforge-225", "row": {"quantity": "1569.250"}, "schema": [{"kind": "decimal", "name": "value", "source": "quantity"}]}
 {"error": "finite number", "id": "pyforge-extension-109", "row": {"mass": "Infinity"}, "schema": [{"default": "listing 119", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 119, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"expected": {"priority": "1576", "value": "true"}, "id": "pyforge-226", "row": {"received": " TRUE "}, "schema": [{"default": "false", "kind": "boolean", "name": "value", "source": "received"}, {"default": "1576", "kind": "integer", "name": "priority"}]}
+{"expected": {"title": "café", "weight": "0.00"}, "id": "pyforge-extension-110", "row": {"mass": "0E-2", "product": " café "}, "schema": [{"default": "listing 120", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 120, "minimum": 0, "name": "weight", "source": "mass"}]}
