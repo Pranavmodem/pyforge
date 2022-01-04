@@ -1,1 +1,2 @@
 {"expected": {"priority": "1723", "value": "false"}, "id": "pyforge-247", "row": {"listed": " NO "}, "schema": [{"default": "false", "kind": "boolean", "name": "value", "source": "listed"}, {"default": "1723", "kind": "integer", "name": "priority"}]}
+{"expected": {"title": "listing 126", "weight": "126.000"}, "id": "pyforge-extension-116", "row": {"mass": " 126.000 "}, "schema": [{"default": "listing 126", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 126, "minimum": 0, "name": "weight", "source": "mass"}]}
