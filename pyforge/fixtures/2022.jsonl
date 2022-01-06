@@ -2,3 +2,4 @@
 {"expected": {"title": "listing 126", "weight": "126.000"}, "id": "pyforge-extension-116", "row": {"mass": " 126.000 "}, "schema": [{"default": "listing 126", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 126, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"error": "outside bounds", "id": "pyforge-extension-117", "row": {"mass": "127.001"}, "schema": [{"default": "listing 127", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 127, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"expected": {"value": "café 1730"}, "id": "pyforge-248", "row": {}, "schema": [{"default": "café 1730", "name": "value", "required": false, "source": "reserved"}]}
+{"error": "outside bounds", "id": "pyforge-extension-118", "row": {"mass": "-0.001"}, "schema": [{"default": "listing 128", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 128, "minimum": 0, "name": "weight", "source": "mass"}]}
