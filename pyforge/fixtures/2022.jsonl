@@ -8,3 +8,4 @@
 {"expected": {"title": "café", "weight": "0.00"}, "id": "pyforge-extension-120", "row": {"mass": "0E-2", "product": " café "}, "schema": [{"default": "listing 130", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 130, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"error": "missing required field", "id": "pyforge-250", "row": {}, "schema": [{"name": "value", "source": "received_249"}]}
 {"expected": {"value": "1751"}, "id": "pyforge-251", "row": {"listed": " +0001751 "}, "schema": [{"kind": "integer", "maximum": 1766, "minimum": 1751, "name": "value", "source": "listed"}]}
+{"expected": {"title": "listing 131", "weight": "131.000"}, "id": "pyforge-extension-121", "row": {"mass": " 131.000 "}, "schema": [{"default": "listing 131", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 131, "minimum": 0, "name": "weight", "source": "mass"}]}
