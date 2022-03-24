@@ -22,3 +22,4 @@
 {"expected": {"value": "1779.250"}, "id": "pyforge-255", "row": {"listed": "1779.250"}, "schema": [{"kind": "decimal", "name": "value", "source": "listed"}]}
 {"expected": {"priority": "1786", "value": "true"}, "id": "pyforge-256", "row": {"reserved": " TRUE "}, "schema": [{"default": "false", "kind": "boolean", "name": "value", "source": "reserved"}, {"default": "1786", "kind": "integer", "name": "priority"}]}
 {"error": "finite number", "id": "pyforge-extension-129", "row": {"mass": "Infinity"}, "schema": [{"default": "listing 139", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 139, "minimum": 0, "name": "weight", "source": "mass"}]}
+{"expected": {"priority": "1793", "value": "false"}, "id": "pyforge-257", "row": {"quantity": " false "}, "schema": [{"default": "true", "kind": "boolean", "name": "value", "source": "quantity"}, {"default": "1793", "kind": "integer", "name": "priority"}]}
