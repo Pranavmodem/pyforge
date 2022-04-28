@@ -30,3 +30,4 @@
 {"error": "outside bounds", "id": "pyforge-extension-132", "row": {"mass": "142.001"}, "schema": [{"default": "listing 142", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 142, "minimum": 0, "name": "weight", "source": "mass"}]}
 {"error": "missing required field", "id": "pyforge-260", "row": {}, "schema": [{"name": "value", "source": "reserved_259"}]}
 {"error": "outside bounds", "id": "pyforge-extension-133", "row": {"mass": "-0.001"}, "schema": [{"default": "listing 143", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 143, "minimum": 0, "name": "weight", "source": "mass"}]}
+{"expected": {"value": "1821"}, "id": "pyforge-261", "row": {"quantity": " +0001821 "}, "schema": [{"kind": "integer", "maximum": 1836, "minimum": 1821, "name": "value", "source": "quantity"}]}
