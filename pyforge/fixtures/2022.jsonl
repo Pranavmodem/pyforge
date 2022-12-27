@@ -56,3 +56,4 @@
 {"error": "invalid integer", "id": "pyforge-279", "row": {}, "schema": [{"default": "invalid-1947", "kind": "integer", "name": "value", "source": "listed"}]}
 {"error": "missing required field", "id": "pyforge-280", "row": {}, "schema": [{"name": "value", "source": "reserved_279"}]}
 {"error": "finite number", "id": "pyforge-extension-139", "row": {"mass": "Infinity"}, "schema": [{"default": "listing 149", "name": "title", "source": "product"}, {"kind": "decimal", "maximum": 149, "minimum": 0, "name": "weight", "source": "mass"}]}
+{"expected": {"value": "1961"}, "id": "pyforge-281", "row": {"quantity": " +0001961 "}, "schema": [{"kind": "integer", "maximum": 1976, "minimum": 1961, "name": "value", "source": "quantity"}]}
