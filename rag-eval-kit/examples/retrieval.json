@@ -1,0 +1,4 @@
+{
+  "corpus": {"retry":"Restart an ingestion attempt after a temporary error.","ledger":"A ledger tracks transferred files and checksums.","owners":"An ownership map routes governance findings."},
+  "queries": [{"text":"ingestion retry attempt","relevant":["retry"]},{"text":"ledger checksums","relevant":["ledger"]},{"text":"ownership governance","relevant":["owners"]}]
+}
